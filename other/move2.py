@@ -9,7 +9,7 @@ while True:
     pyautogui.moveTo(x,y,0.5)
     pyautogui.click(x, y)
     print(x, y)
-    time.sleep()
+    time.sleep(5)
     
 
 
